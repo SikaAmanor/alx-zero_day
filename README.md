@@ -1,1 +1,2 @@
-my first readme
+My first readme.
+This is my first project I love it.
